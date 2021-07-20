@@ -59,7 +59,8 @@
 
 body{
     font-family: Helvetica;
-    background: rgba( 71, 147, 227, 1);
+    background-image: linear-gradient(to bottom right, red, white);
+    background-size: 1600px 1000px;
 }
 h2{
     text-align: center;
