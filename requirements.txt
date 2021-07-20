@@ -1,22 +1,22 @@
-Contact Information //should we put this @ the footer?
+Contact Information
 Logo
 Background
-//Added by deeptanshu-Homepage where the bio of the website and/or anything that belongs in the homepage
-//Added by deeptanshu-About me type section in the website menu on the header where CEO of the dance classes type an about me paragraph
-//Added by deeptanshu-Merchandise (high chance they will not have their own merch) section in either the header or the footer where they can drop their own merchandise
-//Added by deeptanshu-Types of dances that will be in the classes (this can have its own section on the website menu, or can be on the homepage) ex. Bharata Natyam, Classic indian dance, etc.
+Experience (Sorta Resume)
+#-- Merchandise --#
+Program Types
 Heading
-//Added by deeptanshu-Website menu (at the header next to the logo)
+Dropdown Menu
 Timings
 Options (IP/OL)
-Pricing //isn't this the same thing as line 19? - deeptanshu
+Pricing
 Advertising (Flyers)
-Schedule/ Calendar
-// Sponsor
+Schedule
+#-- Sponsor --#
 About
-Hyperlinks //to what? - deeptanshu
-Animation (Transitional) //kinda hard, can we do it? - deeptanshu
-// Payment Options
-// Added by deeptanshu-FAQ/ feedback
-//Added by deeptanshu-Chat forum for any questions/comments/concerns (Something like quora, could also be a hyperlink preview to the website Quora itself)
-//Added by deeptanshu-A following header (whenever you scroll down the page, the header remains visible at the top) maybe, if possible
+Hyperlinks
+Animation (Transitional)
+Payment Options (Visa, MasterCard, PayPal)
+FAQ
+Chatbot
+
+NOTE: # = highly unlikely
