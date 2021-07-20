@@ -1,1 +1,0 @@
-# Wix Templates
