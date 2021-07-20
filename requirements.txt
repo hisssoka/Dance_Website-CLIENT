@@ -9,7 +9,7 @@ Heading
 //Added by deeptanshu-Website menu (at the header next to the logo)
 Timings
 Options (IP/OL)
-Pricing //isn't this the same thing as line 15? - deeptanshu
+Pricing //isn't this the same thing as line 19? - deeptanshu
 Advertising (Flyers)
 Schedule/ Calendar
 // Sponsor
