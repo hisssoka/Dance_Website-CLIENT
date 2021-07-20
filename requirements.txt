@@ -1,22 +1,22 @@
-Contact Information
-Logo
-Background vicky
-Experience (Sorta Resume)
-#-- Merchandise --#
-Program Types
-Heading
-Dropdown Menu vicky
-Timings
-Options (IP/OL)
-Pricing
-Advertising (Flyers)
-Schedule vicky
-#-- Sponsor --#
-About
-Hyperlinks
-Animation (Transitional) vicky
-Payment Options (Visa, MasterCard, PayPal)
-FAQ
-Chatbot
+Contact Information - Manvit
+Logo - Deep
+Background - Vicky
+Experience (Sorta Resume) - Deep
+#-- Merchandise --# - Manvit
+Program Types - Rishi
+Heading - Manvit
+Dropdown Menu - Vicky
+Timings - Deep
+Options (IP/OL) - Manvit
+Pricing - Rishi
+Advertising (Flyers) - Rishi
+Schedule - Vicky
+#-- Sponsor --# - Vicky
+About - Rishi
+Hyperlinks - Deep
+Animation (Transitional) - Vicky
+Payment Options (Visa, MasterCard, PayPal) - Manvit
+FAQ - Deep
+Chatbot - Rishi
 
 NOTE: # = highly unlikely
