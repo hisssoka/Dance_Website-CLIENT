@@ -1,19 +1,30 @@
-h1 {
+h2 {
 
    text-align: center;
   
   font-family: Helvetica;
+  
+  font-size: 18px;
+  
+  color: white;
+  
+  margin: 50px;
+  
+  
 
 }
 
 
-div {
 
-   border-width: ;
-  
-   border-length: ;
-   
-   background-color: white;
+html {
+
+background-image: linear-gradient(to bottom right, red, white);
+background-size: 1600px 1000px;
 
 
+}
+
+iframe {
+
+	
 }
