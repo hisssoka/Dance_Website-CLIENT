@@ -1,3 +1,3 @@
 # Dance Studio (WIP)
 
-![Logo]("stuff/dance_logo.jpeg")
+![Logo]("stuff/logo_dance.jpeg")
