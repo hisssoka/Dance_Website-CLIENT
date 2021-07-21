@@ -1,3 +1,3 @@
 # Dance Studio (WIP)
 
-![](logo_dance.jpeg)
+<img src="C:\Users\mcps2306\Downloads\dance_logo.jpeg">
