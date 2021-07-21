@@ -1,3 +1,2 @@
-# Dance Studio (WIP)
+![logo](https://user-images.githubusercontent.com/83878985/126565083-4316ad96-881b-4dd4-8c45-a8786ddb1a85.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1lY9TdgL5iQjTyBrHEbwbgqp3CbdDRbvZ/preview" width="640" height="480" allow="autoplay"></iframe>
