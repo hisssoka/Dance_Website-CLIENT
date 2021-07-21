@@ -1,5 +1,5 @@
 Contact Information - Manvit
-Logo - Deep
+<-- Logo - Deep -->
 Background - Vicky
 Experience (Sorta Resume) - Deep
 #-- Merchandise --# - Manvit
@@ -13,7 +13,7 @@ Advertising (Flyers) - Rishi
 Schedule - Vicky
 #-- Sponsor --# - Vicky
 About - Rishi
-Hyperlinks - Deep
+Footer Hyperlinks - Deep
 Animation (Transitional) - Vicky
 Payment Options (Visa, MasterCard, PayPal) - Manvit
 FAQ - Deep
