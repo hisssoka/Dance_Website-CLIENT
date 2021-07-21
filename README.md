@@ -1,3 +1,3 @@
 # Dance Studio (WIP)
 
-![Logo]("C:\Users\mcps2306\Downloads\logo_dance.jpeg")
+![Logo]("https://drive.google.com/file/d/1lY9TdgL5iQjTyBrHEbwbgqp3CbdDRbvZ/view?usp=sharing")
