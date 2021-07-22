@@ -1,40 +1,10 @@
-,
-::before,
-::after{
-   margin: 0;
-   padding: 0;
-   box-sizing: inherit;
+h2, p{
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
 }
 
-html{
-    font-family: 'Roboto', sans-serif;
-    font-size: 10px;
-    box-sizing: border-box; 
-    background-image: linear-gradient(to bottom right, red, white);
-    background-size: 1600px 1000px;
-}
-
-/*Section used for centering process*/
-
-section{
-   width: 100%
-   height: 100vh;  
-   display: flex;
-   align-items: center;
-   justify-content: center; 
-}
-
-.container{
-   width: 100; 
-   max-width: 80rem;
-   margin: 0 auto;
-   paddinf 0 1.5rem; 
-}
-
-.accordion-item {
-   background-color: #283042;
-   border-radius: .4rem;
-   margin-bottom: 1rem;
-   padding: 1rem;
-   box-shadow: .5rem 2px .5rem 
+html {
+	background-image: linear-gradient(to bottom right, red, white);
+	background-size: 1600px 1000px;
 }
