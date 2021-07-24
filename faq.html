@@ -1,22 +1,39 @@
 <!DOCTYPE html>
-
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap" rel="stylesheet">
-
-
 	<html>
+	<head>
+	<link rel="stylesheet" href="faq.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+      <title>FAQ</title>
+    </head>
+     <body>
+      <h2>FAQ (Frequently Asked Questions)</h2>
+      <div>
+      	<p>Since this is a new site, we do not have any frequently asked questions at the moment. <br> However, you can help add questions to this page by filling out this form. <br> We will proceed to add the most asked question at our earliest convenience. We hope you understand. <br> </p>
+      </div>
+      <div class="container">
+	    <form action="action_page.php">
 
-		<head>
+	      <label for="fname">First Name</label>
+	      <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-			<title>FAQ</title>
-		
-		</head>
+	      <label for="lname">Last Name</label>
+	      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-		<body>
+	      <label for="country">Country</label>
+	      <select id="country" name="country">
+	        <option value="australia">Australia</option>
+	        <option value="canada">Canada</option>
+	        <option value="usa">USA</option>
+	      </select>
 
-			<h1.center>FAQ (Frequently Asked Questions)</h1>
+	      <label for="subject">Subject</label>
+	      <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-		</body>
+	      <input type="submit" value="Submit">
 
-	</html>
+	    </form>
+</div>
+     </body>
+</html>
