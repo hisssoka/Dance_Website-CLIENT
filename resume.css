@@ -24,7 +24,21 @@ background-size: 1600px 1000px;
 
 }
 
-iframe {
+label {
+    display: block;
+    font-family: Helvetica;
+}
 
-	
+input,
+label {
+    margin: .4rem 0;
+}
+
+.container {
+  margin: auto;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 800px;
+  font-family: Helvetica;
 }
